@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-   Programming languages: <strong> @HTML, @JavaScript, Node, React, Lua.</strong>
+   Programming languages: <strong> HTML, JavaScript, Node, React, Lua.</strong>
 </p>
 
 <p align="left">
