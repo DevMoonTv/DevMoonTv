@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://github.com/DevMoonTv">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**DevMoon** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMoonTv&show_icons=true&theme=dracula&line_height=27" alt="**DevMoonTv** github stats"/>
 </a>
 
 [website]: https://discord.gg/5Zutxmy
